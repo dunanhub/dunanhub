@@ -26,6 +26,7 @@
   <img src="https://img.shields.io/badge/NoSQL-005571?style=flat&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
   <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
 </div>
 
 ---
