@@ -1,13 +1,13 @@
 <h1 align="center">Hi, I'm Bekzat 👋</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Calm;Structured;Creative;Reliable+Systems" alt="Typing SVG" />
-  </a>
+  <b>Calm • Structured • Creative • Reliable Systems</b>
 </p>
 
 <p align="center">
-  <b>Full-Stack Developer • Architecture • UX/UI • Reliable Systems</b>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack Developer;Architecture;UX/UI;Reliable Systems;Street Photographer" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -15,7 +15,7 @@
 ## 🧑‍💻 About Me
 
 > I’m a **Full-Stack Developer** focused on building structured, maintainable, and data-driven systems.  
-> I work at the **Agency for Regulation and Development of the Financial Market of the Republic of Kazakhstan (АРРФРРК)**, developing internal and analytical systems.
+> I work at the **Agency for Regulation and Development of the Financial Market of the Republic of Kazakhstan**, developing internal and analytical systems.
 
 Alongside development, I’m also a **Street Photographer**. Photography influences how I design **UX/UI**, composition, and visual clarity in digital products.
 
