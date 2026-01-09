@@ -109,18 +109,15 @@ Here is my core expertise:
 
 ## 📫 Contact
 
-<div style="display: flex;">
-  <p align="left">
-    <a href="mailto:ubniyev.b@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-ubniyev.b@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-  </p>
-  <p align="left">
-    <a href="https://t.me/dunanb">
-      <img src="https://img.shields.io/badge/Telegram-@dunanb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-    </a>
-  </p>
-</div>
+<p align="left">
+  <a href="mailto:ubniyev.b@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-ubniyev.b@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
+  <a href="https://t.me/dunanb">
+    <img src="https://img.shields.io/badge/Telegram-@dunanb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+</p>
 
 <hr/>
 
