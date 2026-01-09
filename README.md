@@ -39,21 +39,23 @@ Here is my core expertise:
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr style="border: none;">
-    <td align="left" valign="top" style="border: none; width: 30%;">
-      <h3>Backend</h3>
+    <td align="left" valign="top" style="border: none; width: 35%;">
+      <br>
+      <p align="left"><b>Backend</b></p>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-      <br/>
+      <br>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
-    <td align="center" valign="middle" style="border: none; width: 40%;">
-      <img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-21-812_512.gif" width="160" alt="Coding Animation"/>
+    <td align="center" valign="middle" style="border: none; width: 30%;">
+      <img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-21-812_512.gif" width="140" alt="Code Animation"/>
     </td>
-    <td align="right" valign="top" style="border: none; width: 30%;">
-      <h3>Frontend</h3>
+    <td align="right" valign="top" style="border: none; width: 35%;">
+      <br>
+      <p align="right"><b>Frontend</b></p>
       <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"/>
       <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxt"/>
-      <br/>
+      <br>
       <img src="https://img.shields.io/badge/vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify"/>
     </td>
   </tr>
