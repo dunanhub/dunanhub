@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack Developer;Architecture;UX/UI;Reliable Systems;Street Photographer" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Full-Stack+Developer;Architecture;UX/UI;Reliable+Systems;Street+Photographer" alt="Typing SVG" />
   </a>
 </p>
 
@@ -109,16 +109,18 @@ Here is my core expertise:
 
 ## 📫 Contact
 
-<p align="left">
-  <a href="mailto:ubniyev.b@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-ubniyev.b@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
-</p>
-<p align="left">
-  <a href="https://t.me/dunanb">
-    <img src="https://img.shields.io/badge/Telegram-@dunanb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-</p>
+<div style="display: flex;">
+  <p align="left">
+    <a href="mailto:ubniyev.b@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-ubniyev.b@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+  </p>
+  <p align="left">
+    <a href="https://t.me/dunanb">
+      <img src="https://img.shields.io/badge/Telegram-@dunanb-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
+  </p>
+</div>
 
 <hr/>
 
