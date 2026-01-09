@@ -36,22 +36,28 @@ Alongside development, I’m also a **Street Photographer**. Photography influen
 ## 🛠 Main Tech Stack
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-21-812_512.gif" width="200" />
+  <img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-21-812_512.gif" width="180" />
 </p>
 
-<p align="center">
-  <b>Backend</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <b>Frontend</b>
-  <br>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
-  <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
-  <br>
-  <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white" />
-</p>
+<table width="100%">
+  <tr>
+    <td width="30%" align="left" style="border: none;">
+      <b>Backend</b><br>
+      <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+      <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" />
+      <br>
+      <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+    </td>
+    <td width="40%" style="border: none;"></td>
+    <td width="30%" align="right" style="border: none;">
+      <b>Frontend</b><br>
+      <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" />
+      <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" />
+      <br>
+      <img src="https://img.shields.io/badge/vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white" />
+    </td>
+  </tr>
+</table>
 
 <br/>
 
