@@ -44,15 +44,12 @@ Here is my core expertise:
         <h3>Backend</h3>
         <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
         <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-        <br/>
         <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-        <img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
       </th>
       <th width="50%" align="right" style="border: none;">
         <h3>Frontend</h3>
         <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"/>
         <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxt"/>
-        <br/>
         <img src="https://img.shields.io/badge/vuetify-%231867C0.svg?style=for-the-badge&logo=vuetify&logoColor=white" alt="Vuetify"/>
         <img src="https://raw.githubusercontent.com/andreasonny83/andreasonny83/master/slash.png" width="2000" height="0">
       </th>
