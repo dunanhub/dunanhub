@@ -37,19 +37,19 @@ Here is my core expertise:
 
 ## 🛠 Main Tech Stack
 
-<table width="100%" border="0" cellspacing="0" cellpadding="0" style="width: 100%; border-collapse: collapse;">
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr style="border: none;">
-    <td align="left" style="border: none;">
+    <td align="left" valign="top" style="border: none; width: 30%;">
       <h3>Backend</h3>
       <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
       <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
       <br/>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
-    <td>
-      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="400"/>
+    <td align="center" valign="middle" style="border: none; width: 40%;">
+      <img src="https://cdn.pixabay.com/animation/2022/11/16/11/48/11-48-21-812_512.gif" width="160" alt="Coding Animation"/>
     </td>
-    <td align="right" style="border: none;">
+    <td align="right" valign="top" style="border: none; width: 30%;">
       <h3>Frontend</h3>
       <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"/>
       <img src="https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82" alt="Nuxt"/>
