@@ -1,128 +1,85 @@
-<h1 align="center">Hi, I'm Bekzat 👋</h1>
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=30&pause=1000&color=333333&center=true&vCenter=true&width=500&lines=Hi,+I'm+Bekzat+%F0%9F%91%8B;Full-Stack+Developer;Street+Photographer;Reliable+Systems+Builder" alt="Typing SVG" />
+  </a>
+</h1>
+
 <p align="center">
-  Full-Stack Developer • Architecture • UX/UI • Reliable Systems
+  <b>Architecture • UX/UI • Data-Driven Logic</b>
 </p>
 
 <p align="center">
-  Calm. Structured. Creative.
+  Currently developing analytical systems at <b>АРРФРРК</b>
 </p>
 
----
+<br>
 
-## 🧑‍💻 About Me
-
-<p align="center">
-I’m a <b>Full-Stack Developer</b> focused on building structured, maintainable, and data-driven systems.<br/>
-I work at the <b>Agency for Regulation and Development of the Financial Market of the Republic of Kazakhstan (АРРФРРК)</b>,<br/>
-developing internal and analytical systems.
-</p>
+<h2 align="center">🧑‍💻 About Me</h2>
 
 <p align="center">
-Alongside development, I’m also a <b>Street Photographer</b>.<br/>
-Photography influences how I design <b>UX/UI</b>, composition, and visual clarity in digital products.
+   I bridge the gap between <b>backend stability</b> and <b>frontend aesthetics</b>. <br>
+   My background in <b>Street Photography</b> teaches me composition and clarity, <br>
+   which I apply to architectural decisions and UI logic.
 </p>
 
 <p align="center">
-I value clean logic, understandable systems, and solutions that scale without turning into chaos.
+  <i>"I value solutions that scale without turning into chaos."</i>
 </p>
 
----
+<br>
 
-## 🚀 What I Do Best
+<h2 align="center">🛠 Tech Stack</h2>
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center" width="33%"><b>Backend Core</b></td>
+    <td align="center" width="33%"><b>Frontend & UI</b></td>
+    <td align="center" width="33%"><b>Data & DevOps</b></td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white"/>
+      <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D"/>
+      <img src="https://img.shields.io/badge/Nuxt_3-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
+    </td>
+  </tr>
+</table>
+
+<br>
+
+<h2 align="center">📊 Analysis</h2>
 
 <p align="center">
-• Application architecture<br/>
-• API development<br/>
-• Complex UI with clear logic<br/>
-• Data-driven features<br/>
-• Taking projects from idea to completion
+  <img src="https://github-readme-stats.vercel.app/api?username=dunanhub&show_icons=true&hide_title=true&count_private=true&theme=graywhite" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunanhub&layout=compact&theme=graywhite&hide_border=true" height="150" alt="languages graph" />
 </p>
 
----
+<br>
 
-## 🛠 Main Tech Stack
-
-### Backend
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white"/>
-</p>
-
-### Frontend
-<p align="center">
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Nuxt%203-00DC82?style=flat&logo=nuxtdotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat&logo=vuetify&logoColor=white"/>
-</p>
-
----
-
-## 🧩 Other Technologies
+<h2 align="center">📸 Creative & Connect</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NoSQL-005571?style=flat"/>
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"/>
+  Photography influences how I see details in code.
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat&logo=nginx&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Gunicorn-499848?style=flat&logo=gunicorn&logoColor=white"/>
-</p>
-
----
-
-## 📸 Street Photography
-
-<p align="center">
-Street photography helps me see composition, rhythm, and details.<br/>
-This directly influences my approach to interface design and UX decisions.
-</p>
-
-<p align="center">
-📷 Instagram: <a href="https://instagram.com/d.unan_">@d.unan_</a>
-</p>
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dunanhub&show_icons=true&hide_title=true&theme=transparent" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunanhub&layout=compact&theme=transparent" height="150"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=dunanhub&theme=transparent" height="150"/>
-</p>
-
----
-
-## 📫 Contact
-
-<p align="center">
-  <a href="mailto:ubniyev.b@gmail.com">Email</a> •
-  <a href="https://t.me/dunanb">Telegram</a> •
-  <a href="https://instagram.com/d.unan_">Instagram</a>
-</p>
-
----
-
-<p align="center">
-<i>I build systems — and visuals — that are clear, reliable, and meaningful.</i>
+  <a href="https://instagram.com/d.unan_">
+    <img src="https://img.shields.io/badge/Street_Photography-E1306C?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://t.me/dunanb">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
+  </a>
+  <a href="mailto:ubniyev.b@gmail.com">
+    <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
 </p>
