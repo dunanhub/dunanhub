@@ -46,6 +46,9 @@ Here is my core expertise:
       <br/>
       <img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
     </td>
+    <td>
+      <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" alt="Coding GIF" width="400"/>
+    </td>
     <td align="right" style="border: none;">
       <h3>Frontend</h3>
       <img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="Vue"/>
