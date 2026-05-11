@@ -1,49 +1,30 @@
 <div align="center">
 
-<br/>
+# Hi, I'm Bekzat 👋
 
-<h1>Hi, I'm Bekzat 👋</h1>
+### Full-Stack Developer • UI/UX Designer • Street Photographer
 
-<p>
-  <b>Full-Stack Developer</b> · <b>UI/UX Designer</b> · <b>Street Photographer</b>
-</p>
-
-<p>
-  Building structured systems, clean interfaces, and visual stories.
-</p>
-
-<table>
-  <tr>
-    <td align="center">💻</td>
-    <td align="center">🎨</td>
-    <td align="center">📸</td>
-  </tr>
-  <tr>
-    <td align="center"><b>Code</b></td>
-    <td align="center"><b>Design</b></td>
-    <td align="center"><b>Photo</b></td>
-  </tr>
-</table>
+Building structured systems, clean interfaces, and visual stories.
 
 <br/>
 
 <a href="https://yourwebsite.com">
   <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
+
 <a href="https://t.me/dunanb">
   <img src="https://img.shields.io/badge/Telegram-2563EB?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
+
 <a href="https://instagram.com/d.unan_">
   <img src="https://img.shields.io/badge/Instagram-DB2777?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+
 <a href="mailto:ubniyev.b@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/><br/>
-
 </div>
-
 ---
 
 ## 👨‍💻 About Me
