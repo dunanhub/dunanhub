@@ -21,17 +21,18 @@ Building structured systems, clean interfaces, and visual stories.
 
 ## 👨‍💻 About Me
 
-> I build reliable digital systems with clean logic, clear interfaces, and practical architecture.
+> Building reliable digital systems with clean logic, modern interfaces, and visual clarity.
 
 <br/>
 
-<div align="center">
+### 💻 Developer
+Full-stack development focused on scalable architecture, APIs, dashboards, and analytical systems.
 
-| 💻 Developer | 🎨 Designer | 📸 Photographer |
-|-------------|-------------|----------------|
-| Full-stack systems, APIs, dashboards | UI/UX, visual hierarchy, clean interfaces | Street photography, composition, visual stories |
+### 🎨 Designer
+Designing clean interfaces with strong hierarchy, structure, and user experience.
 
-</div>
+### 📸 Photographer
+Street photography focused on composition, atmosphere, and visual storytelling.
 
 <br/>
 
@@ -49,10 +50,9 @@ Currently working at the **Agency for Regulation and Development of the Financia
 >
 > <br/>
 >
-> I focus on building scalable products from idea to implementation.  
-> My work combines backend logic, frontend clarity, and visual thinking.
+> I enjoy building products from idea to implementation — combining backend engineering, frontend clarity, and visual thinking.
 >
-> Design and street photography influence how I approach UX, composition, spacing, and product presentation.
+> Design and photography strongly influence how I approach UX, composition, spacing, and digital experiences.
 >
 > </details>
 
