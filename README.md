@@ -80,13 +80,23 @@ Design and street photography strongly influence how I think about UX, compositi
 </tr>
 </table>
 
-> [!IMPORTANT]
+<br/>
+
+> [!NOTE]
 > <details>
 > <summary><b>Additional Technologies & Concepts</b></summary>
 >
 > <br/>
 >
-> REST API  |  WebSocket  |  JWT Authentication  |  Celery  |  PM2  |  Gunicorn  |  Oracle Database  |  NoSQL  |  Scalable Architecture  |  API Integration  |  Responsive Design
+> 🔹 REST API  
+> 🔹 WebSocket  
+> 🔹 JWT Authentication  
+> 🔹 Celery & PM2  
+> 🔹 Gunicorn & Nginx  
+> 🔹 Oracle & NoSQL Databases  
+> 🔹 Scalable System Architecture  
+> 🔹 API Integration  
+> 🔹 Responsive Design
 >
 > </details>
 
