@@ -33,52 +33,65 @@ Design and street photography strongly influence how I think about UX, compositi
 
 ## 🛠 Tech Stack
 
-<table width="100%">
+<div align="center">
+
+<table>
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### Frontend
+
 <img src="https://skillicons.dev/icons?i=vue,nuxt,react,js,ts,vuetify,tailwind" />
 
 </td>
-<td width="50%" align="center">
+
+<td align="center" width="50%">
 
 ### Backend
+
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,php,nodejs" />
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### Database
+
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
 </td>
-<td width="50%" align="center">
+
+<td align="center" width="50%">
 
 ### Mobile & Cloud
+
 <img src="https://skillicons.dev/icons?i=flutter,firebase" />
 
 </td>
 </tr>
 
 <tr>
-<td width="50%" align="center">
+<td align="center" width="50%">
 
 ### DevOps
+
 <img src="https://skillicons.dev/icons?i=docker,nginx,linux,git" />
 
 </td>
-<td width="50%" align="center">
+
+<td align="center" width="50%">
 
 ### Design
+
 <img src="https://skillicons.dev/icons?i=figma" />
 
 </td>
 </tr>
 </table>
+
+</div>
 
 <br/>
 
