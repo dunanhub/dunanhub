@@ -21,18 +21,18 @@ Building structured systems, clean interfaces, and visual stories.
 
 ## 👨‍💻 About Me
 
-> Building reliable digital systems with clean logic, modern interfaces, and visual clarity.
+> Full-Stack Developer focused on scalable systems, modern interfaces, and reliable architecture.
 
 <br/>
 
-### 💻 Developer
-Full-stack development focused on scalable architecture, APIs, dashboards, and analytical systems.
+> 💻 **Developer**  
+> Building APIs, dashboards, automation systems, and full-stack applications.
 
-### 🎨 Designer
-Designing clean interfaces with strong hierarchy, structure, and user experience.
+> 🎨 **Designer**  
+> Creating clean UI/UX with strong visual hierarchy and modern aesthetics.
 
-### 📸 Photographer
-Street photography focused on composition, atmosphere, and visual storytelling.
+> 📸 **Photographer**  
+> Capturing visual stories through street photography and composition.
 
 <br/>
 
