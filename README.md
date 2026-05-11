@@ -35,13 +35,52 @@ Design and street photography strongly influence how I think about UX, compositi
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=vue,nuxt,react,tailwind" />
-<br/>
-<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres" />
-<br/>
-<img src="https://skillicons.dev/icons?i=docker,flutter,firebase,figma" />
+### Frontend
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,js,ts,vuetify,tailwind" />
+
+<br/><br/>
+
+### Backend
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,php,nodejs" />
+
+<br/><br/>
+
+### Mobile
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
+
+<br/><br/>
+
+### Database
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
+
+<br/><br/>
+
+### DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,figma" />
 
 </div>
+
+<br/>
+
+<details>
+<summary><b>More Technologies & Concepts</b></summary>
+
+<br/>
+
+- REST API
+- WebSocket
+- JWT Authentication
+- Celery
+- PM2
+- Gunicorn
+- Oracle Database
+- NoSQL
+- Scalable System Architecture
+- UI/UX Design
+- Responsive Design
+- API Integration
+
+</details>
 
 ---
 
