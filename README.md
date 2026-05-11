@@ -122,7 +122,7 @@ Currently working at the **Agency for Regulation and Development of the Financia
 
 <br/>
 
-> [!NOTE]
+> [!IMPORTANT]
 > <details>
 > <summary><b>Additional Technologies & Concepts</b></summary>
 >
@@ -185,7 +185,7 @@ Currently working at the **Agency for Regulation and Development of the Financia
 <!-- PROFILE DETAILS -->
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunanhub&theme=nord_dark" 
-  width="100%" 
+  width="60%" 
   alt="GitHub Profile Details" 
 />
 
@@ -207,20 +207,20 @@ If you like my work and want to support me:
 
 ---
 
-<p align="center">
-  <i>Structured Systems • Clean Interfaces • Visual Stories</i>
-</p>
-
----
-
 
 <div align="center">
 
 <!-- STREAK -->
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=dunanhub&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" 
-  width="75%" 
+  width="60%" 
   alt="GitHub Streak" 
 />
 
 </div>
+
+---
+
+<p align="center">
+  <i>Structured Systems • Clean Interfaces • Visual Stories</i>
+</p>
