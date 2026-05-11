@@ -182,9 +182,13 @@ Currently working at the **Agency for Regulation and Development of the Financia
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dunanhub&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff"/>
+<!-- STREAK -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dunanhub&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="195" alt="GitHub Streak" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunanhub&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9"/>
+<br/>
+
+<!-- TOP LANGS -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunanhub&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&include_all_commits=true&count_private=true" height="165" alt="Top Langs" />
 
 </div>
 
