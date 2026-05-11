@@ -188,7 +188,7 @@ Currently working at the **Agency for Regulation and Development of the Financia
 />
 
 <img 
-  src="https://github-readme-activity-graph.vercel.app/graph?username=dunanhub&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=29537A&point=ffffff" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunanhub&theme=github_dark" 
   width="49%" 
 />
 
