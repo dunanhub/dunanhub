@@ -1,21 +1,38 @@
-<h1 align="center">Hi, I'm Bekzat 👋</h1>
+<div align="center">
 
-<p align="center">
-  <b>Full-Stack Developer • Designer • Street Photographer</b>
-</p>
+<br/>
 
-<p align="center">
-  Building structured systems, clean interfaces, and visual stories.
+<h1>
+  Hi, I'm Bekzat 👋
+</h1>
+
+<h3>
+  Full-Stack Developer · UI/UX Designer · Street Photographer
+</h3>
+
+<p>
+  I build reliable digital systems, clean interfaces, and visual stories.
 </p>
 
 <br/>
 
-<div align="center">
+<a href="https://yourwebsite.com">
+  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+<a href="https://t.me/dunanb">
+  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+</a>
+<a href="https://instagram.com/d.unan_">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:ubniyev.b@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 
-[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
-[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dunanb)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/d.unan_)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubniyev.b@gmail.com)
+<br/>
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:29537A&height=2&section=footer"/>
 
 </div>
 
