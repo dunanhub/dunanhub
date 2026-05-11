@@ -182,13 +182,21 @@ Currently working at the **Agency for Regulation and Development of the Financia
 
 <div align="center">
 
-<!-- STREAK -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=dunanhub&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="195" alt="GitHub Streak" />
+<table>
+<tr>
+<td>
 
-<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=dunanhub&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" height="220"/>
 
-<!-- TOP LANGS -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dunanhub&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=29537A&point=ffffff" width="95%"/>
+</td>
+
+<td>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dunanhub&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=29537A&point=ffffff" height="220"/>
+
+</td>
+</tr>
+</table>
 
 </div>
 
