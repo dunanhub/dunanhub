@@ -193,7 +193,7 @@ Currently working at the **Agency for Regulation and Development of the Financia
 
 <!-- PROFILE DETAILS -->
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunanhub&theme=github_dark" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunanhub&theme=nord_dark" 
   width="75%" 
   alt="GitHub Profile Details" 
 />
