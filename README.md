@@ -2,37 +2,45 @@
 
 <br/>
 
-<h1>
-  Hi, I'm Bekzat 👋
-</h1>
-
-<h3>
-  Full-Stack Developer · UI/UX Designer · Street Photographer
-</h3>
+<h1>Hi, I'm Bekzat 👋</h1>
 
 <p>
-  I build reliable digital systems, clean interfaces, and visual stories.
+  <b>Full-Stack Developer</b> · <b>UI/UX Designer</b> · <b>Street Photographer</b>
 </p>
+
+<p>
+  Building structured systems, clean interfaces, and visual stories.
+</p>
+
+<table>
+  <tr>
+    <td align="center">💻</td>
+    <td align="center">🎨</td>
+    <td align="center">📸</td>
+  </tr>
+  <tr>
+    <td align="center"><b>Code</b></td>
+    <td align="center"><b>Design</b></td>
+    <td align="center"><b>Photo</b></td>
+  </tr>
+</table>
 
 <br/>
 
 <a href="https://yourwebsite.com">
-  <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
 </a>
 <a href="https://t.me/dunanb">
-  <img src="https://img.shields.io/badge/Telegram-229ED9?style=for-the-badge&logo=telegram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Telegram-2563EB?style=for-the-badge&logo=telegram&logoColor=white" />
 </a>
 <a href="https://instagram.com/d.unan_">
-  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  <img src="https://img.shields.io/badge/Instagram-DB2777?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 <a href="mailto:ubniyev.b@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 
-<br/>
-<br/>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:29537A&height=2&section=footer"/>
+<br/><br/>
 
 </div>
 
