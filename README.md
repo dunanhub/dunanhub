@@ -104,7 +104,7 @@ Currently working at the **Agency for Regulation and Development of the Financia
 
 ### DevOps
 
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git" />
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,postman" />
 
 </td>
 
@@ -112,7 +112,7 @@ Currently working at the **Agency for Regulation and Development of the Financia
 
 ### Design
 
-<img src="https://skillicons.dev/icons?i=figma" />
+<img src="https://skillicons.dev/icons?i=figma,ps,ai" />
 
 </td>
 </tr>
@@ -185,7 +185,7 @@ Currently working at the **Agency for Regulation and Development of the Financia
 <!-- PROFILE DETAILS -->
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunanhub&theme=nord_dark" 
-  width="60%" 
+  width="75%" 
   alt="GitHub Profile Details" 
 />
 
