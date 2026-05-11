@@ -144,64 +144,37 @@ Currently working at the **Agency for Regulation and Development of the Financia
 
 ## 🚀 Showcase
 
-<details>
-<summary><b>⚡ EcoWatt Shield</b></summary>
+> ⚡ **EcoWatt Shield**  
+> Smart utility monitoring platform with analytics, alerts, and mobile dashboard.
 
 <br/>
 
-Smart monitoring platform for utilities and analytics.
-
-- Real-time monitoring
-- Smart alerts
-- Analytical dashboard
-- Mobile MVP
-
-</details>
+> 🧠 **AI Assistant Dashboard**  
+> AI-powered analytical workspace with modern UI/UX and automation tools.
 
 <br/>
 
-<details>
-<summary><b>🧠 AI Assistant Dashboard</b></summary>
+> 📄 **Corporate Single Window**  
+> Document workflow platform with digital approval and E-signature support.
 
 <br/>
 
-AI-powered analytical workspace with modern UX/UI.
-
-- AI assistant integration
-- Analytics system
-- Dashboard architecture
-- Smart workflows
-
-</details>
+> 📸 **Street Photography**  
+> Visual storytelling through composition, atmosphere, and urban photography.
 
 <br/>
 
-<details>
-<summary><b>📄 Corporate Single Window</b></summary>
-
-<br/>
-
-Corporate document workflow platform with E-signature support.
-
-- Upload & approval flow
-- Status tracking
-- Digital document storage
-- E-signature UX
-
-</details>
-
-<br/>
-
-<details>
-<summary><b>📸 Street Photography</b></summary>
-
-<br/>
-
-Street photography portfolio focused on composition, rhythm, and atmosphere.
-
-📷 Instagram: @d.unan_
-
-</details>
+> [!NOTE]
+> <details>
+> <summary><b>View project details</b></summary>
+>
+> <br/>
+>
+> More case studies, UI concepts, development process, and visual projects are available on my portfolio website.
+>
+> 👉 https://yourportfolio.com
+>
+> </details>
 
 ---
 
@@ -209,9 +182,9 @@ Street photography portfolio focused on composition, rhythm, and atmosphere.
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=dunanhub&show_icons=true&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dunanhub&show_icons=true&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9&icon_color=58a6ff"/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunanhub&layout=compact&theme=transparent&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunanhub&layout=compact&theme=transparent&hide_border=true&title_color=ffffff&text_color=c9d1d9"/>
 
 </div>
 
