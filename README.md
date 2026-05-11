@@ -182,25 +182,18 @@ Currently working at the **Agency for Regulation and Development of the Financia
 
 <div align="center">
 
-<!-- STREAK -->
-<img 
-  src="https://github-readme-streak-stats.herokuapp.com/?user=dunanhub&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" 
-  width="75%" 
-  alt="GitHub Streak" 
-/>
-
-<br/><br/>
-
 <!-- PROFILE DETAILS -->
 <img 
   src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunanhub&theme=nord_dark" 
-  width="75%" 
+  width="100%" 
   alt="GitHub Profile Details" 
 />
 
 </div>
 
 ---
+
+<div align="center">
 
 ## ☕ Support
 
@@ -210,8 +203,24 @@ If you like my work and want to support me:
   <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
 </a>
 
+</div>
+
 ---
 
 <p align="center">
   <i>Structured Systems • Clean Interfaces • Visual Stories</i>
 </p>
+
+---
+
+
+<div align="center">
+
+<!-- STREAK -->
+<img 
+  src="https://github-readme-streak-stats.herokuapp.com/?user=dunanhub&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" 
+  width="75%" 
+  alt="GitHub Streak" 
+/>
+
+</div>
