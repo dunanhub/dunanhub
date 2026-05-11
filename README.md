@@ -188,7 +188,7 @@ Currently working at the **Agency for Regulation and Development of the Financia
 <br/>
 
 <!-- TOP LANGS -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunanhub&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=8b949e&include_all_commits=true&count_private=true" height="165" alt="Top Langs" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=dunanhub&theme=github-compact&hide_border=true&bg_color=0d1117&color=8b949e&line=29537A&point=ffffff" width="95%"/>
 
 </div>
 
