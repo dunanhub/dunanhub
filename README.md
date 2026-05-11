@@ -182,14 +182,20 @@ Currently working at the **Agency for Regulation and Development of the Financia
 
 <div align="center">
 
+<!-- STREAK -->
 <img 
   src="https://github-readme-streak-stats.herokuapp.com/?user=dunanhub&theme=dark&hide_border=true&background=0d1117&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=8b949e&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff" 
-  width="49%" 
+  width="75%" 
+  alt="GitHub Streak" 
 />
 
+<br/><br/>
+
+<!-- PROFILE DETAILS -->
 <img 
-  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunanhub&theme=github_dark" 
-  width="49%" 
+  src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=dunanhub&theme=transparent" 
+  width="75%" 
+  alt="GitHub Profile Details" 
 />
 
 </div>
