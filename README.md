@@ -8,23 +8,15 @@ Building structured systems, clean interfaces, and visual stories.
 
 <br/>
 
-<a href="https://yourwebsite.com">
-  <img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white" />
-</a>
-
-<a href="https://t.me/dunanb">
-  <img src="https://img.shields.io/badge/Telegram-2563EB?style=for-the-badge&logo=telegram&logoColor=white" />
-</a>
-
-<a href="https://instagram.com/d.unan_">
-  <img src="https://img.shields.io/badge/Instagram-DB2777?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
-<a href="mailto:ubniyev.b@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-DC2626?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/d.unan_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dunanhub)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dunanb)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/77066160468)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubniyev.b@gmail.com)
 
 </div>
+
 ---
 
 ## 👨‍💻 About Me
