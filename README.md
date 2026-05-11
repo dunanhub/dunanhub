@@ -21,13 +21,40 @@ Building structured systems, clean interfaces, and visual stories.
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Developer focused on scalable systems, modern interfaces, and reliable architecture.
+> I build reliable digital systems with clean logic, clear interfaces, and practical architecture.
 
-Currently working at the Agency for Regulation and Development of the Financial Market of the Republic of Kazakhstan, developing internal and analytical systems.
+<br/>
 
-Design and street photography strongly influence how I think about UX, composition, and digital experiences.
+<div align="center">
 
-👉 **[Visit My Portfolio Website](https://yourwebsite.com)**
+| 💻 Developer | 🎨 Designer | 📸 Photographer |
+|-------------|-------------|----------------|
+| Full-stack systems, APIs, dashboards | UI/UX, visual hierarchy, clean interfaces | Street photography, composition, visual stories |
+
+</div>
+
+<br/>
+
+Currently working at the **Agency for Regulation and Development of the Financial Market of the Republic of Kazakhstan**, developing internal and analytical systems.
+
+<br/>
+
+[![Portfolio](https://img.shields.io/badge/View%20Portfolio-29537A?style=for-the-badge&logo=vercel&logoColor=white)](https://yourportfolio.com)
+
+<br/>
+
+> [!TIP]
+> <details>
+> <summary><b>More about me</b></summary>
+>
+> <br/>
+>
+> I focus on building scalable products from idea to implementation.  
+> My work combines backend logic, frontend clarity, and visual thinking.
+>
+> Design and street photography influence how I approach UX, composition, spacing, and product presentation.
+>
+> </details>
 
 ---
 
