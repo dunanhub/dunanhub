@@ -33,7 +33,7 @@ Design and street photography strongly influence how I think about UX, compositi
 
 ## 🛠 Tech Stack
 
-<table>
+<table width="100%">
 <tr>
 <td width="50%" align="center">
 
@@ -86,7 +86,7 @@ Design and street photography strongly influence how I think about UX, compositi
 >
 > <br/>
 >
-> REST API · WebSocket · JWT Authentication · Celery · PM2 · Gunicorn · Oracle Database · NoSQL · Scalable Architecture · API Integration · Responsive Design
+> REST API  |  WebSocket  |  JWT Authentication  |  Celery  |  PM2  |  Gunicorn  |  Oracle Database  |  NoSQL  |  Scalable Architecture  |  API Integration  |  Responsive Design
 >
 > </details>
 
