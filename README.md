@@ -33,54 +33,62 @@ Design and street photography strongly influence how I think about UX, compositi
 
 ## 🛠 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" align="center">
 
 ### Frontend
 <img src="https://skillicons.dev/icons?i=vue,nuxt,react,js,ts,vuetify,tailwind" />
 
-<br/><br/>
+</td>
+<td width="50%" align="center">
 
 ### Backend
 <img src="https://skillicons.dev/icons?i=python,django,fastapi,php,nodejs" />
 
-<br/><br/>
+</td>
+</tr>
 
-### Mobile
-<img src="https://skillicons.dev/icons?i=flutter,firebase" />
-
-<br/><br/>
+<tr>
+<td width="50%" align="center">
 
 ### Database
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 
-<br/><br/>
+</td>
+<td width="50%" align="center">
 
-### DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,figma" />
+### Mobile & Cloud
+<img src="https://skillicons.dev/icons?i=flutter,firebase" />
 
-</div>
+</td>
+</tr>
 
-<br/>
+<tr>
+<td width="50%" align="center">
 
-<details>
-<summary><b>More Technologies & Concepts</b></summary>
+### DevOps
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git" />
 
-<br/>
+</td>
+<td width="50%" align="center">
 
-- REST API
-- WebSocket
-- JWT Authentication
-- Celery
-- PM2
-- Gunicorn
-- Oracle Database
-- NoSQL
-- Scalable System Architecture
-- UI/UX Design
-- Responsive Design
-- API Integration
+### Design
+<img src="https://skillicons.dev/icons?i=figma" />
 
-</details>
+</td>
+</tr>
+</table>
+
+> [!IMPORTANT]
+> <details>
+> <summary><b>Additional Technologies & Concepts</b></summary>
+>
+> <br/>
+>
+> REST API · WebSocket · JWT Authentication · Celery · PM2 · Gunicorn · Oracle Database · NoSQL · Scalable Architecture · API Integration · Responsive Design
+>
+> </details>
 
 ---
 
