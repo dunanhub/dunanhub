@@ -1,84 +1,137 @@
 <h1 align="center">Hi, I'm Bekzat 👋</h1>
 
 <p align="center">
-  Structured Systems • Clean Interfaces • Visual Stories
+  <b>Full-Stack Developer • Designer • Street Photographer</b>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=2500&color=29537A&center=true&vCenter=true&width=700&lines=Full-Stack+Developer;Designer;Street+Photographer;Building+Reliable+Digital+Systems" />
+  Building structured systems, clean interfaces, and visual stories.
 </p>
 
 <br/>
+
+<div align="center">
+
+[![Website](https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=About.me&logoColor=white)](https://yourwebsite.com)
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dunanb)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/d.unan_)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ubniyev.b@gmail.com)
+
+</div>
+
+---
 
 ## 👨‍💻 About Me
 
-I'm a Full-Stack Developer focused on building structured, scalable, and clean digital systems.
+I'm a Full-Stack Developer focused on scalable systems, modern interfaces, and reliable architecture.
 
 Currently working at the Agency for Regulation and Development of the Financial Market of the Republic of Kazakhstan, developing internal and analytical systems.
 
-Alongside development, I also work with design and street photography — which strongly influences my approach to UX, composition, and visual clarity.
+Design and street photography strongly influence how I think about UX, composition, and digital experiences.
 
-If you'd like to learn more about me, explore my projects, design work, or photography portfolio:
+👉 **[Visit My Portfolio Website](https://yourwebsite.com)**
 
-👉 **[Visit My Website](https://yourwebsite.com)**
-
-<br/>
+---
 
 ## 🛠 Tech Stack
 
-### Frontend
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=white)
-![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div align="center">
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-
-### Database & Tools
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
+<img src="https://skillicons.dev/icons?i=vue,nuxt,react,tailwind" />
 <br/>
+<img src="https://skillicons.dev/icons?i=python,django,fastapi,postgres" />
+<br/>
+<img src="https://skillicons.dev/icons?i=docker,flutter,firebase,figma" />
+
+</div>
+
+---
 
 ## 🚀 Showcase
 
-- ⚡ EcoWatt Shield — smart utility monitoring platform
-- 🧠 AI Assistant Dashboard — analytical AI workspace
-- 📄 Corporate Single Window — document workflow system
-- 📸 Street Photography — visual storytelling & composition
+<details>
+<summary><b>⚡ EcoWatt Shield</b></summary>
 
 <br/>
 
-## 📫 Contact
+Smart monitoring platform for utilities and analytics.
 
-<p align="left">
-  <a href="mailto:ubniyev.b@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
+- Real-time monitoring
+- Smart alerts
+- Analytical dashboard
+- Mobile MVP
 
-  <a href="https://t.me/dunanb">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
-  </a>
-
-  <a href="https://instagram.com/d.unan_">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-  </a>
-</p>
+</details>
 
 <br/>
+
+<details>
+<summary><b>🧠 AI Assistant Dashboard</b></summary>
+
+<br/>
+
+AI-powered analytical workspace with modern UX/UI.
+
+- AI assistant integration
+- Analytics system
+- Dashboard architecture
+- Smart workflows
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>📄 Corporate Single Window</b></summary>
+
+<br/>
+
+Corporate document workflow platform with E-signature support.
+
+- Upload & approval flow
+- Status tracking
+- Digital document storage
+- E-signature UX
+
+</details>
+
+<br/>
+
+<details>
+<summary><b>📸 Street Photography</b></summary>
+
+<br/>
+
+Street photography portfolio focused on composition, rhythm, and atmosphere.
+
+📷 Instagram: @d.unan_
+
+</details>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dunanhub&show_icons=true&theme=transparent&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dunanhub&layout=compact&theme=transparent&hide_border=true"/>
+
+</div>
+
+---
 
 ## ☕ Support
 
 If you like my work and want to support me:
 
-👉 [Buy Me a Coffee](https://buymeacoffee.com/yourusername)
+<a href="https://buymeacoffee.com/yourusername">
+  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
+</a>
 
-<br/>
+---
 
 <p align="center">
-  <i>Building systems that are reliable, meaningful, and visually clear.</i>
+  <i>Structured Systems • Clean Interfaces • Visual Stories</i>
 </p>
