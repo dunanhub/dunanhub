@@ -199,9 +199,7 @@ Currently working at the **Agency for Regulation and Development of the Financia
 
 If you like my work and want to support me:
 
-<a href="https://buymeacoffee.com/yourusername">
-  <img src="https://img.shields.io/badge/Buy%20Me%20a%20Coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black"/>
-</a>
+[![Support](https://img.shields.io/badge/Support%20Me-F15F2C?style=for-the-badge&logo=boosty&logoColor=white)](https://boosty.to/YOUR_USERNAME)
 
 </div>
 
